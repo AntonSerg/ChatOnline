@@ -1,0 +1,6 @@
+E:\Learning(WIT)\C#\ChatOnline\client\bin\Release\client.exe.config
+E:\Learning(WIT)\C#\ChatOnline\client\bin\Release\client.exe
+E:\Learning(WIT)\C#\ChatOnline\client\bin\Release\client.pdb
+E:\Learning(WIT)\C#\ChatOnline\client\obj\Release\client.csproj.CoreCompileInputs.cache
+E:\Learning(WIT)\C#\ChatOnline\client\obj\Release\client.exe
+E:\Learning(WIT)\C#\ChatOnline\client\obj\Release\client.pdb

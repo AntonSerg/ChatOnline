@@ -1,0 +1,7 @@
+E:\Learning(WIT)\C#\ChatOnline\Chat\obj\Debug\Chat.csprojAssemblyReference.cache
+E:\Learning(WIT)\C#\ChatOnline\Chat\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+E:\Learning(WIT)\C#\ChatOnline\Chat\bin\Debug\Chat.exe.config
+E:\Learning(WIT)\C#\ChatOnline\Chat\bin\Debug\Chat.exe
+E:\Learning(WIT)\C#\ChatOnline\Chat\bin\Debug\Chat.pdb
+E:\Learning(WIT)\C#\ChatOnline\Chat\obj\Debug\Chat.exe
+E:\Learning(WIT)\C#\ChatOnline\Chat\obj\Debug\Chat.pdb
